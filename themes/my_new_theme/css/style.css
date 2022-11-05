@@ -7,6 +7,7 @@
 
 body {
     background-image: linear-gradient(rgb(156, 43, 162) 20%, rgb(243, 144, 231) 90%);
+    text-align: center;
 }
 
 ol, ul {
